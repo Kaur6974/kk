@@ -8,6 +8,7 @@ package student;
 /**
  *
  * @author Ankush
+ Komalpreet Kaur
  */
 public class Student {
     String name;
