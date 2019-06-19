@@ -7,7 +7,7 @@ package student;
 
 /**
  *
- * @author Ankush
+ * @author sukhjit
  Komalpreet Kaur
  */
 public class Student {
