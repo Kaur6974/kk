@@ -12,7 +12,7 @@ package student;
  */
 public class Student {
     String name;
-    int age;
+    int AGE;
     int sid;
     
     public Student(String a)
