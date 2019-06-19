@@ -19,7 +19,7 @@ public class Student {
     this.name = a;
     
     
-    kodo
+   
     
     
     
